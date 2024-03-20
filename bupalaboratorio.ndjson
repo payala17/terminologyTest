@@ -1,0 +1,59 @@
+{"code":"001","display":"HEPATOGRAMA COMPLETO","system":"http://example.org/CodeSystem/bupa","valueset":["http://example.org/ValueSet/bupa-laboratorio"]}
+{"code":"002","display":"COAGULOGRAMA COMPLETO","system":"http://example.org/CodeSystem/bupa","valueset":["http://example.org/ValueSet/bupa-laboratorio"]}
+{"code":"003","display":"HEMOGRAMA COMPLETO","system":"http://example.org/CodeSystem/bupa","valueset":["http://example.org/ValueSet/bupa-laboratorio"]}
+{"code":"004","display":"IONOGRAMA","system":"http://example.org/CodeSystem/bupa","valueset":["http://example.org/ValueSet/bupa-laboratorio"]}
+{"code":"005","display":"UREMIA","system":"http://example.org/CodeSystem/bupa","valueset":["http://example.org/ValueSet/bupa-laboratorio"]}
+{"code":"006","display":"GLUCEMIA","system":"http://example.org/CodeSystem/bupa","valueset":["http://example.org/ValueSet/bupa-laboratorio"]}
+{"code":"007","display":"CREATININEMIA","system":"http://example.org/CodeSystem/bupa","valueset":["http://example.org/ValueSet/bupa-laboratorio"]}
+{"code":"008","display":"COLESTEROL TOTAL","system":"http://example.org/CodeSystem/bupa","valueset":["http://example.org/ValueSet/bupa-laboratorio"]}
+{"code":"009","display":"COLESTEROL HDL","system":"http://example.org/CodeSystem/bupa","valueset":["http://example.org/ValueSet/bupa-laboratorio"]}
+{"code":"010","display":"COLESTEROL LDL","system":"http://example.org/CodeSystem/bupa","valueset":["http://example.org/ValueSet/bupa-laboratorio"]}
+{"code":"011","display":"TRIGLICERIDOS","system":"http://example.org/CodeSystem/bupa","valueset":["http://example.org/ValueSet/bupa-laboratorio"]}
+{"code":"012","display":"RECUENTO DE PLAQUETAS","system":"http://example.org/CodeSystem/bupa","valueset":["http://example.org/ValueSet/bupa-laboratorio"]}
+{"code":"013","display":"TEST RAPIDO PARA ESTREPTOCOCO GRUPO A","system":"http://example.org/CodeSystem/bupa","valueset":["http://example.org/ValueSet/bupa-laboratorio"]}
+{"code":"014","display":"RETRACCION DEL COAGULO","system":"http://example.org/CodeSystem/bupa","valueset":["http://example.org/ValueSet/bupa-laboratorio"]}
+{"code":"015","display":"TIEMPO DE CONSUMO DE PROTROMBINA","system":"http://example.org/CodeSystem/bupa","valueset":["http://example.org/ValueSet/bupa-laboratorio"]}
+{"code":"016","display":"FACTOR DE COAGULACION II","system":"http://example.org/CodeSystem/bupa","valueset":["http://example.org/ValueSet/bupa-laboratorio"]}
+{"code":"017","display":"FACTOR DE COAGULACION V","system":"http://example.org/CodeSystem/bupa","valueset":["http://example.org/ValueSet/bupa-laboratorio"]}
+{"code":"018","display":"FACTOR DE COAGULACION VII","system":"http://example.org/CodeSystem/bupa","valueset":["http://example.org/ValueSet/bupa-laboratorio"]}
+{"code":"019","display":"FACTOR DE COAGULACION VIII (INMUNOGICO/FUNCIONAL)","system":"http://example.org/CodeSystem/bupa","valueset":["http://example.org/ValueSet/bupa-laboratorio"]}
+{"code":"020","display":"FACTOR DE COAGULACION IX","system":"http://example.org/CodeSystem/bupa","valueset":["http://example.org/ValueSet/bupa-laboratorio"]}
+{"code":"021","display":"KPTT","system":"http://example.org/CodeSystem/bupa","valueset":["http://example.org/ValueSet/bupa-laboratorio"]}
+{"code":"022","display":"TIEMPO DE PROTROMBINA/CONCENTRACION DE PROTROMBINA/RIN","system":"http://example.org/CodeSystem/bupa","valueset":["http://example.org/ValueSet/bupa-laboratorio"]}
+{"code":"023","display":"COAGULOGRAMA BASICO","system":"http://example.org/CodeSystem/bupa","valueset":["http://example.org/ValueSet/bupa-laboratorio"]}
+{"code":"024","display":"FACTOR DE COAGULACION X","system":"http://example.org/CodeSystem/bupa","valueset":["http://example.org/ValueSet/bupa-laboratorio"]}
+{"code":"025","display":"HEPARINEMIA ANTI Xa","system":"http://example.org/CodeSystem/bupa","valueset":["http://example.org/ValueSet/bupa-laboratorio"]}
+{"code":"026","display":"FIBRINOGENO (INMUNOLOGICO/FUNCIONAL)","system":"http://example.org/CodeSystem/bupa","valueset":["http://example.org/ValueSet/bupa-laboratorio"]}
+{"code":"027","display":"FACTOR DE COAGULACION XIII","system":"http://example.org/CodeSystem/bupa","valueset":["http://example.org/ValueSet/bupa-laboratorio"]}
+{"code":"028","display":"FACTOR DE COAGULACION XII","system":"http://example.org/CodeSystem/bupa","valueset":["http://example.org/ValueSet/bupa-laboratorio"]}
+{"code":"029","display":"FACTOR DE COAGULACION XI","system":"http://example.org/CodeSystem/bupa","valueset":["http://example.org/ValueSet/bupa-laboratorio"]}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
